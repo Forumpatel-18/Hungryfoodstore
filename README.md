@@ -9,7 +9,7 @@
 
 ### Technologies used: 
 - **ReactJS** 
-- **Tailwind CSS**
+- **CSS**
 
 
 <br/>
